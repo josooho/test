@@ -1,0 +1,29 @@
+.container {
+    width: 800px;
+}
+
+.header {
+    width: 100%;
+    height: 90px;
+    background-color: black;
+}
+
+.menu {
+    width: 100%;
+    height: 50px;
+    background-color: hotpink;
+    
+}
+
+.main {
+    width: 100%;
+    height: 500px;
+    background-color: darkgrey;
+}
+
+.end {
+    width: 100%;
+    height: 300px;
+    background-color: darkorange;
+}
+
